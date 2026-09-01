@@ -58,3 +58,6 @@ Built completely from scratch in **MicroPython** using asynchronous tasks (`uasy
    WIFI_PASS = "Your_WiFi_Password"
    WEATHER_API_KEY = "Your_OpenWeatherMap_API_Key"
    CITY = "Your_City"
+   
+## Video Link
+https://youtu.be/udwHpw4VXUs
