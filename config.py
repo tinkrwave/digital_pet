@@ -1,11 +1,11 @@
 from machine import Pin
 
 # ================== USER SETTINGS ==================
-WIFI_SSID = "blackb"
-WIFI_PASS = "password"
+WIFI_SSID = "YOUR_WIFI"
+WIFI_PASS = "YOUR_PASS"
 
-WEATHER_API_KEY = "23eb1493fb3be3c2cf645307f9af4871"
-CITY = "Kathmandu"
+WEATHER_API_KEY = "API_KEY"
+CITY = "CITYNAME"
 
 # UTC offset in seconds (e.g., +5:45 = 5.75 * 3600 = 20700)
 UTC_OFFSET_SEC = 20700
